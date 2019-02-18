@@ -8,4 +8,4 @@
 7. MultiLayer_Perceptron
 8. Multidimensional_Scaling
 9. PCA
-10.Probabilistic Latent Semantic Indexing
+10. Probabilistic Latent Semantic Indexing
